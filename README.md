@@ -16,8 +16,9 @@
   </a>
 </p>
 
-<p>
+
 ## Hi there 👋
+<p>
 Full-stack developer with a problem-solving mindset. <br>
 I build user-friendly applications and love learning, collaborating, and turning ideas into solutions.
 </p>
