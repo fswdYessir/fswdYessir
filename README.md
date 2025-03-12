@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://solsolportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-square&logo=files&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-E680E6?style=flat-square&logo=files&logoColor=white"/>
   </a>
 </p>
 
