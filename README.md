@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20Sol&fontSize=70&animation=fadeIn&fontcolor=white)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi%20I'm%20Sol&fontSize=70&animation=fadeIn&fontcolor=white)
 
 <p>
   <a href="mailto:fswd.yessir@gmail.com">
@@ -17,8 +17,8 @@
 </p>
 
 
-## Hi there 👋
 <p>
+<h3>Hi there 👋</h3>
 Full-stack developer with a problem-solving mindset. <br>
 I build user-friendly applications and love learning, collaborating, and turning ideas into solutions.
 </p>
