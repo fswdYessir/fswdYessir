@@ -55,8 +55,8 @@ I build user-friendly applications and love learning, collaborating, and turning
 </div>-->
 <br>
 
-<!--![](https://github.com/devBySol/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/devBySol/github-stats-transparent/blob/output/generated/languages.svg)-->
+![](https://github.com/devBySol/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/devBySol/github-stats-transparent/blob/output/generated/languages.svg)
 </div>
 
 
