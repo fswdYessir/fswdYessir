@@ -53,9 +53,9 @@ I build user-friendly applications and love learning, collaborating, and turning
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devBySol&theme=github_dark" alt="Most Used Languages" style="margin-left: 20px;" />
 </div>-->
 <br>
-
+<!--
 ![](https://github.com/fswdYessir/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/fswdYessir/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/fswdYessir/github-stats-transparent/blob/output/generated/languages.svg) -->
 </div>
 
 
