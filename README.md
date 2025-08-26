@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20Sol&fontSize=70&animation=fadeIn&fontcolor=white)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20there%20&fontSize=70&animation=fadeIn&fontcolor=white)
 
 <p>
   <a href="mailto:fswd.yessir@gmail.com">
